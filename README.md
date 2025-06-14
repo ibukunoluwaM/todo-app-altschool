@@ -2,10 +2,6 @@
 
 A full-featured Todo App built with React that supports **Create**, **Read**, **Update**, and **Delete** (CRUD) operations. It features pagination, edit in place, delete confirmation, offline support, and data persistence through `localStorage`. The app consumes the `jsonplaceholder` API and supports local todo creation when offline.
 
-## 🚀 Live Demo
-
-[🔗 View the Live App](https://your-deployment-link.com)
-
 ## 📸 Screenshots
 
 ### Main Todo List
@@ -18,7 +14,7 @@ A full-featured Todo App built with React that supports **Create**, **Read**, **
 ![Delete Screenshot](./screenshots/delete_confirmation.png)
 
 ### Dynamic URL of individual Todo details
-![Todo Detail](./screenshots/delete_confirmation.png)
+![Todo Detail](./screenshots/tododetail.png)
 ---
 
 ## 🧰 Tech Stack
@@ -94,4 +90,5 @@ Only local todos are truly persisted using localStorage.
 
 👤 Author
 Name: Ibukunoluwa Olateju
+
 Cohort: AltSchool Africa, Frontend Engineering – 2025
