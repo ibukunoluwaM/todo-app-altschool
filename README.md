@@ -40,28 +40,6 @@ A full-featured Todo App built with React that supports **Create**, **Read**, **
 - ✅ Filter out deleted todos using local tracking  
 - ✅ Error Boundary for catching unexpected crashes  
 
----
-
-## 📂 Folder Structure (Simplified)
-src/
-│
-├── components/
-│ ├── errorBoundarydemo.jsx
-│ ├── filterBar.jsx
-│ ├── pagination.jsx
-│ ├── todoForm.jsx
-│ ├── todoList.jsx
-│ └── Spinner.jsx
-│
-├── pages/
-│ ├── notFoundPage // handles error 404
-│ ├── todoDetailPage.js // individual todo details
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-└── index.html
-
 
 ---
 
